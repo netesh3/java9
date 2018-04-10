@@ -1,0 +1,3 @@
+module SimpleDemo {
+    requires ProcessAPIDemo;
+}
